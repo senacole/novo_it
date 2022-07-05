@@ -17,7 +17,9 @@ Please find information on how to access Novo Information Technology (IT) suppor
 3. Start a chat with `ucc_sd_chat@nzservicedesk.com` in Microsoft Teams
 4. Call the help desk directly at (855) 235-8914
 
+![](it_frustration.png)
+
 Best Regards, 
-- scc
+scc
 
 
